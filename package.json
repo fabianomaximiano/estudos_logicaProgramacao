@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "5": "^0.0.1",
+    "bootstrap": "^5.0.1"
+  },
+  "name": "estudos_logicaprogramacao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
